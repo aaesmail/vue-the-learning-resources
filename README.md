@@ -1,24 +1,18 @@
-# the-learning-resources
+# The Learning Resources
 
-## Project setup
-```
-npm install
-```
+## A Vue app using the CLI and components to practice all the vue concepts that I learned so far.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Some Used Concepts:
+  * Components
+  * Teleport
+  * provide/inject
+  * component :is
+  * keep-alive
+  * props
+  * emits
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### How to run:
+  * Have npm & Vue CLI installed
+  * Open a terminal in project folder
+  * npm install
+  * npm run serve
